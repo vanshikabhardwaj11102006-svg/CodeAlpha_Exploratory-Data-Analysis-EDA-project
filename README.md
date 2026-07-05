@@ -44,8 +44,3 @@ You can run this project effortlessly without setting up a local environment:
 2. Navigate to [Google Colab](https://colab.research.google.com/).
 3. Click on **New Notebook**.
 4. Paste the code into sequential cells and press `Shift + Enter` to run them.
-
-Alternatively, if downloading the `.ipynb` file:
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
